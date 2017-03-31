@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+.parallax1, .parallax2, .parallax3, .parallax4 {
+  height: 100vh;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.parallax1 {
+  background-image: url('http://a.espncdn.com/photo/2014/0527/mag_suarez01_aw_1600x900.jpg');
+}
+
+.parallax2 {
+  background-image: url('http://a.espncdn.com/photo/2014/0527/mag_suarez02_aw_1600x900.jpg');
+}
+
+.parallax3 {
+  background-image: url('http://a.espncdn.com/photo/2014/0527/mag_suarez03_aw_1600x900.jpg');
+}
+
+.parallax4 {
+  background-image: url('http://a.espncdn.com/photo/2014/0527/mag_suarez04_aw_1600x900.jpg');
+}
